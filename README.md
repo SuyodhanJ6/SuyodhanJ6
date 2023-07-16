@@ -1,6 +1,8 @@
 
 ### Data Scientist
+
 As a Data Scientist, I leverage my expertise in statistical analysis, machine learning, and data visualization to derive insights and make informed decisions. I have experience working with various programming languages, databases, and machine learning frameworks, enabling me to tackle complex data problems and deliver actionable results.I am a collaborative problem-solver who can work with stakeholders to deliver scalable and secure data solutions. 
+
     • Programing Language: (Python, JavaScript, PySpark) | Databases (SQL Server, MongoDB and MySQL)
     • Distributed Framework (Spark, Hadoop, Kafka) 
     • AWS Services (AWS Glue, AWS Data Pipeline, Amazon S3, Amazon Redshift, AWS Lambda, Amazon RDS) and Data Lake (Amazon S3) with Delta Lake capabilities.
@@ -11,6 +13,7 @@ As a Data Scientist, I leverage my expertise in statistical analysis, machine le
     • Machine Learning (Regression, Classification, Clustering, Artificial Neural Network, Convolutional Neural
     • Network, Recurrent Neural Network, Encoder and Decoder, Word Embedding)
     • Machine Learning Framework and Libraries (Pandas, Numpy, Sklearn, PySpark, PyTorch, TensorFlow, Matplotlib, Seaborn, TFX.)
-    • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerBI
+    • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerB
+    
 Currently learning: Blockchain technology
 Planning to obtain certification in Blockchain as soon as possible. This continuous learning and expertise in a range of technologies position me as a versatile Data Scientist with the ability to deliver innovative solutions in the field of data analysis and machine learning.
