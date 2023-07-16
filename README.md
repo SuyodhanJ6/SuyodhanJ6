@@ -16,4 +16,5 @@ As a Data Scientist, I leverage my expertise in statistical analysis, machine le
     • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerB
     
 Currently learning: Blockchain technology
+
 Planning to obtain certification in Blockchain as soon as possible. This continuous learning and expertise in a range of technologies position me as a versatile Data Scientist with the ability to deliver innovative solutions in the field of data analysis and machine learning.
