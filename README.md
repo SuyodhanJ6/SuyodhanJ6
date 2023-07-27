@@ -16,7 +16,7 @@ Hi, I'm Prashant Malge, a passionate Data Scientist. As a Data Scientist, I leve
     • Machine Learning Framework and Libraries (Pandas, Numpy, Sklearn, PySpark, PyTorch, TensorFlow, Matplotlib, Seaborn, TFX.)
     • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerB
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 
 Currently learning: Blockchain technology
 
