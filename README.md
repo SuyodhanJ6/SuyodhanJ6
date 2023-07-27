@@ -2,7 +2,7 @@
 
 ### Data Scientist
 
-As a Data Scientist, I leverage my expertise in statistical analysis, machine learning, and data visualization to derive insights and make informed decisions. I have experience working with various programming languages, databases, and machine learning frameworks, enabling me to tackle complex data problems and deliver actionable results. I am a collaborative problem-solver who can work with stakeholders to deliver scalable and secure data solutions. 
+Hi, I'm Prashant Malge, a passionate Data Scientist. As a Data Scientist, I leverage my expertise in statistical analysis, machine learning, and data visualization to derive insights and make informed decisions. I have experience working with various programming languages, databases, and machine learning frameworks, enabling me to tackle complex data problems and deliver actionable results. I am a collaborative problem-solver who can work with stakeholders to deliver scalable and secure data solutions. 
 
     • Programing Language: (Python, JavaScript, PySpark) | Databases (SQL Server, MongoDB and MySQL)
     • Distributed Framework (Spark, Hadoop, Kafka) 
