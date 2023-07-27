@@ -1,7 +1,8 @@
+## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
 
 ### Data Scientist
 
-As a Data Scientist, I leverage my expertise in statistical analysis, machine learning, and data visualization to derive insights and make informed decisions. I have experience working with various programming languages, databases, and machine learning frameworks, enabling me to tackle complex data problems and deliver actionable results.I am a collaborative problem-solver who can work with stakeholders to deliver scalable and secure data solutions. 
+As a Data Scientist, I leverage my expertise in statistical analysis, machine learning, and data visualization to derive insights and make informed decisions. I have experience working with various programming languages, databases, and machine learning frameworks, enabling me to tackle complex data problems and deliver actionable results. I am a collaborative problem-solver who can work with stakeholders to deliver scalable and secure data solutions. 
 
     • Programing Language: (Python, JavaScript, PySpark) | Databases (SQL Server, MongoDB and MySQL)
     • Distributed Framework (Spark, Hadoop, Kafka) 
