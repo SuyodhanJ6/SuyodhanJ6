@@ -15,7 +15,9 @@ As a Data Scientist, I leverage my expertise in statistical analysis, machine le
     • Network, Recurrent Neural Network, Encoder and Decoder, Word Embedding)
     • Machine Learning Framework and Libraries (Pandas, Numpy, Sklearn, PySpark, PyTorch, TensorFlow, Matplotlib, Seaborn, TFX.)
     • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerB
-    
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+
 Currently learning: Blockchain technology
 
 Planning to obtain certification in Blockchain as soon as possible. This continuous learning and expertise in a range of technologies position me as a versatile Data Scientist with the ability to deliver innovative solutions in the field of data analysis and machine learning.
