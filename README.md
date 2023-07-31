@@ -21,3 +21,6 @@ Hi, I'm Prashant Malge, a passionate Data Scientist. As a Data Scientist, I leve
 Currently learning: Blockchain technology
 
 Planning to obtain certification in Blockchain as soon as possible. This continuous learning and expertise in a range of technologies position me as a versatile Data Scientist with the ability to deliver innovative solutions in the field of data analysis and machine learning.
+
+
+Reach Me --> prashantmalge181@gmail.com
