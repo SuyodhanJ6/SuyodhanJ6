@@ -13,7 +13,7 @@ Hi, I'm Prashant Malge, a passionate Data Scientist. As a Data Scientist, I leve
     • AWS Services (S3, AWS Lambda, EC2, ECR) and Machine Learning (SageMaker)
     • Machine Learning (Regression, Classification, Clustering, Artificial Neural Network, Convolutional Neural
     • Network, Recurrent Neural Network, Encoder and Decoder, Word Embedding)
-    • Machine Learning Framework and Libraries (Pandas, Numpy, Sklearn, PySpark, PyTorch, TensorFlow, Matplotlib, Seaborn, TFX.)
+    • Machine Learning Framework and Libraries (Pandas, Numpy, Sklearn, PySpark, PyTorch, TensorFlow, Matplotlib, Seaborn, TFX..)
     • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerBI
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
