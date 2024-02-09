@@ -16,7 +16,7 @@ Hi, I'm Prashant Malge, a passionate Data Scientist. As a Data Scientist, I leve
     • Machine Learning Framework and Libraries (Pandas, Numpy, Sklearn, PySpark, PyTorch, TensorFlow, Matplotlib, Seaborn, TFX..)
     • Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerBI
 
-Currently learning: AWS(CCP)
+Currently learning: AWS(CPP)
 
 Planning to obtain certification in AWS as soon as possible. This continuous learning and expertise in a range of technologies position me as a versatile Data Scientist with the ability to deliver innovative solutions in the field of data analysis and machine learning.
 
