@@ -2,7 +2,7 @@
 
 ### Data Scientist
 
-    • Data Scientist at Insigniacs and currently building an LLM pipeline)
+    • Data Scientist currently building an LLM pipeline)
     • Expertise in developing comprehensive Computer Vision, Natural Language Processing, LLM, and Cloud LLM pipelines.
     • Proficient in Machine Learning, Deep Learning, LLM, Transfer Learning models, and Vector Databases.
     • A curious learner who keeps updated with new technologies and delves deeper into concepts.
